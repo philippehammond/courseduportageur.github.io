@@ -1,7 +1,7 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #000000;
   font-weight: 400;
   font-size: 0.9rem;
   font-family: "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -17,6 +17,8 @@ body {
   background: #000;
   color: #fff; }
 
+
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -25,7 +27,7 @@ a {
     text-decoration: none; }
 
 .text-red {
-  color: #f23a2e !important; 
+  color: #000000 !important; 
   font-size: 3.5rem !important; }
 
 .bg-light {
@@ -79,9 +81,9 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-secondary {
-    background-color: #e6e7e9;
-    border-color: #e6e7e9;
-    color: #000; }
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000; }
   .btn.btn-outline {
     background-color: transparent;
     border-color: #f23a2e;
@@ -227,10 +229,10 @@ a {
       color: #4d4d4d; }
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; 
-    font-family: "Roboto";
-    font-weight: 900; }
+    font-family: "Open Sans";
+    font-weight: 600; }
     .site-navbar .site-navigation .site-menu .active > a {
-      color: #737373; }
+      color: #000000; }
     .site-navbar .site-navigation .site-menu a {
       text-decoration: none !important;
       font-size: 20px;
@@ -240,9 +242,9 @@ a {
       padding: 10px 5px; }
       .site-navbar .site-navigation .site-menu > li > a {
         padding: 10px 10px;
-        text-transform: uppercase;
+
         letter-spacing: .05em;
-        color: #737373;
+        color: #000000;
         font-size: 20px;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
@@ -328,7 +330,7 @@ a {
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:active > a, .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:focus > a {
             color: #f23a2e; }
       .site-navbar .site-navigation .site-menu .has-children a {
-        text-transform: uppercase; }
+        /*text-transform: uppercase;*/ }
       .site-navbar .site-navigation .site-menu .has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children:focus > a, .site-navbar .site-navigation .site-menu .has-children:active > a {
         color: #4d4d4d; }
       .site-navbar .site-navigation .site-menu .has-children:hover, .site-navbar .site-navigation .site-menu .has-children:focus, .site-navbar .site-navigation .site-menu .has-children:active {
