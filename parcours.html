@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Parcours — Course du Portageur</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body data-page="parcours">
+  <div id="nav-mount"></div>
+
+  <section class="pagehead">
+    <div class="pagehead-bg" style="background-image:url('images/women-runners.jpg')"></div>
+    <div class="pagehead-inner">
+      <div class="breadcrumb"><span>Notre-Dame-du-Portage</span> <span>·</span> <span>24 octobre 2026</span></div>
+      <h1>Nos <em>parcours.</em></h1>
+      <div class="pagehead-meta">
+        <p class="left">Sous forme d'aller-retour, nos parcours sur route asphaltée sont généralement plats et en bordure du fleuve Saint-Laurent.</p>
+        <a href="https://events.hakuapp.com/course-du-portageur" target="_blank" rel="noopener" class="btn btn-primary">Inscription <span class="arrow">↗</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top: 40px;">
+    <!-- 10K -->
+    <div class="parcours-block" id="r10">
+      <div>
+        <h2 class="p-dist">10<sup>km</sup></h2>
+        <div class="p-when">Samedi 24 octobre · départ 12h20</div>
+        <p class="p-desc">Sous forme d'aller/retour, ce parcours sur route asphaltée est généralement plat et en bordure du fleuve Saint-Laurent. Point d'eau au km 6.</p>
+        <ul class="p-legs">
+          <li>Aller <b>3 km</b></li>
+          <li>Retour <b>3 km</b></li>
+          <li>Aller <b>2 km</b></li>
+          <li>Retour <b>2 km</b></li>
+        </ul>
+        <a href="https://events.hakuapp.com/course-du-portageur" target="_blank" rel="noopener" class="btn btn-outline">Inscription <span class="arrow">↗</span></a>
+      </div>
+      <div class="p-visual">
+        <div class="bg-img" style="background-image:url('images/runners-autumn.jpg')"></div>
+        <svg viewBox="0 0 500 400" preserveAspectRatio="xMidYMid meet">
+          <defs>
+            <pattern id="dots10" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
+              <circle cx="1" cy="1" r="1" fill="#1B3A4B" opacity="0.08"/>
+            </pattern>
+          </defs>
+          <rect width="500" height="400" fill="url(#dots10)"/>
+          <path d="M 60 280 Q 130 240, 200 260 T 340 240 T 440 200" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="0"/>
+          <path d="M 440 200 L 440 220 M 440 220 Q 340 240, 200 260 T 60 280" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="6 8" opacity="0.5"/>
+          <circle cx="60" cy="280" r="9" fill="#1B3A4B"/>
+          <circle cx="60" cy="280" r="4" fill="#FAF6EF"/>
+          <circle cx="440" cy="200" r="9" fill="#C5471A"/>
+          <text x="60" y="310" font-family="Inter" font-size="11" font-weight="600" fill="#1B3A4B" text-anchor="middle" letter-spacing="2">DÉPART</text>
+          <text x="440" y="180" font-family="Inter" font-size="11" font-weight="600" fill="#C5471A" text-anchor="middle" letter-spacing="2">MI-COURSE</text>
+          <text x="250" y="360" font-family="Bricolage Grotesque" font-size="18" font-weight="700" fill="#1B3A4B" text-anchor="middle" letter-spacing="-0.5">Aller-retour · fleuve Saint-Laurent</text>
+        </svg>
+      </div>
+    </div>
+
+    <!-- 5K -->
+    <div class="parcours-block flip" id="r5">
+      <div>
+        <h2 class="p-dist">5<sup>km</sup></h2>
+        <div class="p-when">Samedi 24 octobre · départ 11h30</div>
+        <p class="p-desc">Sous forme d'aller/retour, notre parcours sur route asphaltée est généralement plat et en bordure du fleuve Saint-Laurent.</p>
+        <ul class="p-legs">
+          <li>Aller <b>2,5 km</b></li>
+          <li>Retour <b>2,5 km</b></li>
+        </ul>
+        <a href="https://events.hakuapp.com/course-du-portageur" target="_blank" rel="noopener" class="btn btn-outline">Inscription <span class="arrow">↗</span></a>
+      </div>
+      <div class="p-visual">
+        <div class="bg-img" style="background-image:url('images/finish-line.jpg')"></div>
+        <svg viewBox="0 0 500 400" preserveAspectRatio="xMidYMid meet">
+          <rect width="500" height="400" fill="none"/>
+          <path d="M 80 260 Q 200 220, 320 240 T 420 220" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round"/>
+          <path d="M 420 220 Q 300 240, 80 260" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="6 8" opacity="0.5"/>
+          <circle cx="80" cy="260" r="9" fill="#1B3A4B"/>
+          <circle cx="80" cy="260" r="4" fill="#FAF6EF"/>
+          <circle cx="420" cy="220" r="9" fill="#C5471A"/>
+          <text x="80" y="290" font-family="Inter" font-size="11" font-weight="600" fill="#1B3A4B" text-anchor="middle" letter-spacing="2">DÉPART</text>
+          <text x="420" y="200" font-family="Inter" font-size="11" font-weight="600" fill="#C5471A" text-anchor="middle" letter-spacing="2">DEMI-TOUR</text>
+        </svg>
+      </div>
+    </div>
+
+    <!-- 3K -->
+    <div class="parcours-block" id="r3">
+      <div>
+        <h2 class="p-dist">3<sup>km</sup></h2>
+        <div class="p-when">Samedi 24 octobre · départ 11h00</div>
+        <p class="p-desc">Sous forme d'aller/retour, notre parcours sur route asphaltée est généralement plat et en bordure du fleuve Saint-Laurent.</p>
+        <ul class="p-legs">
+          <li>Aller <b>1,5 km</b></li>
+          <li>Retour <b>1,5 km</b></li>
+        </ul>
+        <a href="https://events.hakuapp.com/course-du-portageur" target="_blank" rel="noopener" class="btn btn-outline">Inscription <span class="arrow">↗</span></a>
+      </div>
+      <div class="p-visual">
+        <div class="bg-img" style="background-image:url('images/kids-start.jpg')"></div>
+        <svg viewBox="0 0 500 400" preserveAspectRatio="xMidYMid meet">
+          <path d="M 100 240 Q 220 210, 340 230 T 400 220" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round"/>
+          <path d="M 400 220 Q 280 230, 100 240" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="6 8" opacity="0.5"/>
+          <circle cx="100" cy="240" r="9" fill="#1B3A4B"/>
+          <circle cx="100" cy="240" r="4" fill="#FAF6EF"/>
+          <circle cx="400" cy="220" r="9" fill="#C5471A"/>
+          <text x="100" y="270" font-family="Inter" font-size="11" font-weight="600" fill="#1B3A4B" text-anchor="middle" letter-spacing="2">DÉPART</text>
+          <text x="400" y="200" font-family="Inter" font-size="11" font-weight="600" fill="#C5471A" text-anchor="middle" letter-spacing="2">DEMI-TOUR</text>
+        </svg>
+      </div>
+    </div>
+
+    <!-- 1K -->
+    <div class="parcours-block flip" id="r1">
+      <div>
+        <h2 class="p-dist">1<sup>km</sup></h2>
+        <div class="p-when">Samedi 24 octobre · départ 13h40</div>
+        <p class="p-desc">Sous forme d'aller/retour, notre parcours sur route asphaltée est généralement plat et en bordure du fleuve Saint-Laurent. Parfait pour les plus jeunes et toute la famille.</p>
+        <ul class="p-legs">
+          <li>Aller <b>0,5 km</b></li>
+          <li>Retour <b>0,5 km</b></li>
+        </ul>
+        <a href="https://events.hakuapp.com/course-du-portageur" target="_blank" rel="noopener" class="btn btn-outline">Inscription <span class="arrow">↗</span></a>
+      </div>
+      <div class="p-visual">
+        <div class="bg-img" style="background-image:url('images/volunteers.jpg')"></div>
+        <svg viewBox="0 0 500 400" preserveAspectRatio="xMidYMid meet">
+          <path d="M 150 240 Q 250 220, 350 235" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round"/>
+          <path d="M 350 235 Q 250 245, 150 240" stroke="#C5471A" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="6 8" opacity="0.5"/>
+          <circle cx="150" cy="240" r="9" fill="#1B3A4B"/>
+          <circle cx="150" cy="240" r="4" fill="#FAF6EF"/>
+          <circle cx="350" cy="235" r="9" fill="#C5471A"/>
+          <text x="150" y="270" font-family="Inter" font-size="11" font-weight="600" fill="#1B3A4B" text-anchor="middle" letter-spacing="2">DÉPART</text>
+          <text x="350" y="215" font-family="Inter" font-size="11" font-weight="600" fill="#C5471A" text-anchor="middle" letter-spacing="2">DEMI-TOUR</text>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <div id="footer-mount"></div>
+  <script src="site.js?v=3"></script>
+</body>
+</html>
