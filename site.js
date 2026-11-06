@@ -14,15 +14,17 @@ const NAV_HTML = `
       <li>
         <a class="nav-link" href="#" onclick="return false">Résultats<span class="chev">▾</span></a>
         <ul class="submenu">
-          <li><a href="https://sportstats.one/event/course-du-portageur/leaderboard/145284" target="_blank" rel="noopener">1 KM <span class="ext">↗</span></a></li>
-          <li><a href="https://sportstats.one/event/course-du-portageur/leaderboard/145285" target="_blank" rel="noopener">3 KM <span class="ext">↗</span></a></li>
-          <li><a href="https://sportstats.one/event/course-du-portageur/leaderboard/145286" target="_blank" rel="noopener">5 KM <span class="ext">↗</span></a></li>
-          <li><a href="https://sportstats.one/event/course-du-portageur/leaderboard/145287" target="_blank" rel="noopener">10 KM <span class="ext">↗</span></a></li>
+          <li><a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148146" target="_blank" rel="noopener">1 KM <span class="ext">↗</span></a></li>
+          <li><a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148147" target="_blank" rel="noopener">3 KM <span class="ext">↗</span></a></li>
+          <li><a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148148" target="_blank" rel="noopener">5 KM <span class="ext">↗</span></a></li>
+          <li><a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148149" target="_blank" rel="noopener">10 KM <span class="ext">↗</span></a></li>
+          <li><a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148150" target="_blank" rel="noopener">PONT D'OR <span class="ext">↗</span></a></li>
         </ul>
       </li>
       <li>
         <a class="nav-link" href="#" onclick="return false">Photos<span class="chev">▾</span></a>
         <ul class="submenu">
+          <li><a href="IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80Mzc2MjYzMTY5NzM3ODgAAR89smq227WOxluThjhbX1M9Lu_krC4ef0Augi378wpqFWmS1xc_Wd9Dna8i1A_aem_cr3KbzhEaBmME9a_KD9vFA" target="_blank" rel="noopener">Courses 2026 <span class="ext">↗</span></a></li>
           <li><a href="https://gabiephotographie9.pixieset.com/courseduportageur/" target="_blank" rel="noopener">Courses 2025 <span class="ext">↗</span></a></li>
           <li><a href="https://www.flickr.com/photos/62067609@N02/albums/72177720322691581" target="_blank" rel="noopener">Courses 2024 <span class="ext">↗</span></a></li>
           <li><a href="https://www.flickr.com/photos/62067609@N02/albums/72177720312950513" target="_blank" rel="noopener">Courses 2023 <span class="ext">↗</span></a></li>
