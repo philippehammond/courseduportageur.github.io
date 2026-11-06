@@ -24,7 +24,7 @@ const NAV_HTML = `
       <li>
         <a class="nav-link" href="#" onclick="return false">Photos<span class="chev">▾</span></a>
         <ul class="submenu">
-          <li><a href="IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80Mzc2MjYzMTY5NzM3ODgAAR89smq227WOxluThjhbX1M9Lu_krC4ef0Augi378wpqFWmS1xc_Wd9Dna8i1A_aem_cr3KbzhEaBmME9a_KD9vFA" target="_blank" rel="noopener">Courses 2026 <span class="ext">↗</span></a></li>
+          <li><a href="https://drive.google.com/drive/folders/1_xS0Wmf__KDhPy1dOISA5HagwzSSryY4?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80Mzc2MjYzMTY5NzM3ODgAAR89smq227WOxluThjhbX1M9Lu_krC4ef0Augi378wpqFWmS1xc_Wd9Dna8i1A_aem_cr3KbzhEaBmME9a_KD9vFA" target="_blank" rel="noopener">Courses 2026 <span class="ext">↗</span></a></li>
           <li><a href="https://gabiephotographie9.pixieset.com/courseduportageur/" target="_blank" rel="noopener">Courses 2025 <span class="ext">↗</span></a></li>
           <li><a href="https://www.flickr.com/photos/62067609@N02/albums/72177720322691581" target="_blank" rel="noopener">Courses 2024 <span class="ext">↗</span></a></li>
           <li><a href="https://www.flickr.com/photos/62067609@N02/albums/72177720312950513" target="_blank" rel="noopener">Courses 2023 <span class="ext">↗</span></a></li>
