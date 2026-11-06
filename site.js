@@ -45,11 +45,13 @@ const NAV_HTML = `
     <a href="parcours.html">Parcours</a>
     <a href="courses.html">Info Course</a>
     <div class="sub-label">Résultats</div>
-    <a href="https://sportstats.one/event/course-du-portageur/leaderboard/145284" target="_blank">1 KM ↗</a>
-    <a href="https://sportstats.one/event/course-du-portageur/leaderboard/145285" target="_blank">3 KM ↗</a>
-    <a href="https://sportstats.one/event/course-du-portageur/leaderboard/145286" target="_blank">5 KM ↗</a>
-    <a href="https://sportstats.one/event/course-du-portageur/leaderboard/145287" target="_blank">10 KM ↗</a>
+    <a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148146" target="_blank">1 KM ↗</a>
+    <a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148147" target="_blank">3 KM ↗</a>
+    <a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148148" target="_blank">5 KM ↗</a>
+    <a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148149" target="_blank">10 KM ↗</a>
+    <a href="https://sportstats.one/fr/event/course-du-portageur/leaderboard/148150" target="_blank">PONT D'OR↗</a>
     <div class="sub-label">Photos</div>
+    <a href="https://drive.google.com/drive/folders/1_xS0Wmf__KDhPy1dOISA5HagwzSSryY4?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80Mzc2MjYzMTY5NzM3ODgAAR89smq227WOxluThjhbX1M9Lu_krC4ef0Augi378wpqFWmS1xc_Wd9Dna8i1A_aem_cr3KbzhEaBmME9a_KD9vFA" target="_blank" rel="noopener">Courses 2026 ↗</a>
     <a href="https://gabiephotographie9.pixieset.com/courseduportageur/" target="_blank">Courses 2025 ↗</a>
     <a href="https://www.flickr.com/photos/62067609@N02/albums/72177720322691581" target="_blank">Courses 2024 ↗</a>
     <a href="https://www.flickr.com/photos/62067609@N02/albums/72177720312950513" target="_blank">Courses 2023 ↗</a>
